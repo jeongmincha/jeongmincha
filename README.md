@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha)](https://hits.seeyoufarm.com)
 
+![jeongmincha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmincha&show_icons=true&theme=radical)
+
 Are you curious about my career? 👉[resume](https://github.com/jeongmincha/resume)
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmincha/)](https://www.linkedin.com/in/jeongmincha/)
