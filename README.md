@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha)](https://hits.seeyoufarm.com)
 
-![jeongmincha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmincha&show_icons=true&theme=radical)
+![jeongmincha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmincha&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Are you curious about my career? 👉[resume](https://github.com/jeongmincha/resume)
   
