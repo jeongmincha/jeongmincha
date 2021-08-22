@@ -6,8 +6,8 @@
 
 Are you curious about my career? 👉[resume](https://github.com/jeongmincha/resume/blob/master/pdf/jeongmincha-resume.pdf)
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmincha/)](https://www.linkedin.com/in/jeongmincha/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjm9236)](https://www.facebook.com/cjm9236)               
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmincha/)](https://www.linkedin.com/in/jeongmincha/) 
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjm9236)](https://www.facebook.com/cjm9236) 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/3241257/jeongmin-cha)](https://stackoverflow.com/users/3241257/jeongmin-cha)
 
 <!--
