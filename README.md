@@ -25,7 +25,7 @@
 several tools on <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 
 <br/>
-My Resume 👉 <a href="https://github.com/jeongmincha/resume/blob/master/pdf/jeongmincha-resume.pdf">here</a>
+My Resume 👉 <a href="https://my.surfit.io/w/870643703">here</a>
 <br />
 <br />
 
