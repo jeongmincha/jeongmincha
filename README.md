@@ -1,12 +1,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JeongminCha&fontSize=70&animation=twinkling) -->
 
-<p> Hi 👋  My name is Jeongmin Cha and I'm a Back-end Software Engineer. 🤗  Thank you for visiting. </p>
+Hi 👋  My name is Jeongmin Cha and I'm a Back-end Software Engineer. 🤗  
+Thank you for visiting.
+
+<br />
 
 <h3> 🛠  Main Tech Stack 🛠 </h3>
 
 
 * Languages:
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-ffb13b??style=for-the-badge&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
