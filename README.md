@@ -34,9 +34,9 @@ My Resume 👉 <a href="https://my.surfit.io/w/870643703">here</a>
 
 Contact me on:
 <br />
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmincha" />
-<img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjm9236" />
-<img src="https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/3241257/jeongmin-cha" />
+<a href="https://www.linkedin.com/in/jeongmincha"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/cjm9236/"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="link=https://stackoverflow.com/users/3241257/jeongmin-cha"><img src="https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow" /></a>
 <br />
 <br />
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha" />
