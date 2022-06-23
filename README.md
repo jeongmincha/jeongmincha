@@ -5,7 +5,7 @@ Thank you for visiting.
 
 <br />
 
-<h3> 🛠  Main Tech Stack 🛠 </h3>
+<h3> 🛠  Main Tech Stack </h3>
 
 
 * Languages:
@@ -27,18 +27,16 @@ Thank you for visiting.
 * etc:
 several tools on <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 
-<br/>
-My Resume 👉 <a href="https://my.surfit.io/w/870643703">here</a>
-<br />
-<br />
+<h3> Other Links </h3>
 
-Contact me on:
-<br />
-<a href="https://www.linkedin.com/in/jeongmincha" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/cjm9236/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/3241257/jeongmin-cha" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow" /></a>
-<br />
-<br />
+
+📑 [Resume](https://my.surfit.io/w/870643703)  
+📫 [Linkedin](https://www.linkedin.com/in/jeongmincha)  
+👨‍👦‍👦 [Facebook](https://www.facebook.com/cjm9236/)  
+🧐 [Stackoverflow](https://stackoverflow.com/users/3241257/jeongmin-cha)  
+💬 [Blog](https://jeongmincha.github.io/)    
+
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha" />
 
 <!--
