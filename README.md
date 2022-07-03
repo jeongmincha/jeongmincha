@@ -16,17 +16,17 @@ Thank you for visiting.
 
 # Tech stacks
 
-<img src="https://img.shields.io/badge/Javascript-ffb13b??style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest.js-c3364e?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b??style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Nest.js-c3364e?style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;
 
 <br />
 
