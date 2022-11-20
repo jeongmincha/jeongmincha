@@ -8,7 +8,8 @@ Thank you for visiting.
 
 # Work Experiences
 
-- Yanolja, 2021.07 - Current
+- Dunamu, 2022.11 - Current
+- Yanolja, 2021.07 - 2022.10
 - TmaxData, 2019.08 - 2021.06
 - HYPERITHM, 2018.03 - 2019.04
 
